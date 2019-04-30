@@ -1,5 +1,11 @@
 # README.md
 
-## git 地址
+## git
 
-https://github.com/MonguDykrai/great-teammate.git
+### git pull
+
+git pull https://github.com/MonguDykrai/great-teammate.git master
+
+### git push
+
+git push https://github.com/MonguDykrai/great-teammate.git master
