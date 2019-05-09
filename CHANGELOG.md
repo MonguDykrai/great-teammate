@@ -20,3 +20,4 @@
 ## 2019-05-09
 
 - 添加 Browser-Update.org
+- 添加 Nuxt.js
