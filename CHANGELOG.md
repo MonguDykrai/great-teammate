@@ -27,3 +27,7 @@
 - 新增 ## 可持续关注的库
 - 新增 包管理工具.md
 - vue cli3 初始化项目错误解决方案
+
+## 2019-05-14
+
+- 新增 [Emojipedia](https://emojipedia.org/) - 表情文字
